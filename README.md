@@ -35,6 +35,3 @@ O projeto segue os princípios do **CQRS**, com a seguinte abordagem:
 - **Entity Framework Core** (escrita)
 - **Dapper** (leitura)
 - **FluentValidation**
-
-## 📂 Organização do Projeto (Exemplo)
-
